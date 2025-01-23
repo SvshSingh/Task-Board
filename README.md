@@ -21,14 +21,14 @@
 
 ---
 
-## Tech stacks used
+## Tech stacks
 
 <div align="center">
 </div>
 <br>
 
 - The project leverages _React.js_ and _JavaScript_ for interactive and dynamic front-end development.
-- Styling is powered by _CSS with Material UI_, ensuring a modern and responsive design.
+- Styling is powered by _CSS with Material UI_ and _Framer Motion_, ensuring a modern and responsive design.
 - Information is persistently stored in _localStorage_ to provide continuity between sessions.
 
 ---
