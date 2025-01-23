@@ -52,7 +52,7 @@
 <div>
   <br>
   <b>1) Dragging and dropping a task between lists</b>
-  <br><br>
+  <br><hr><br>
   <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 10px;">
       <img src="readme_assets\move1.png" alt="Before Dragging" width="800">
@@ -64,7 +64,7 @@
       <p><strong>After:</strong> Task 1 is dragged and dropped to the In-Progress List</p>
     </div>
   </div>
-  <br><br>
+  <br><hr><br>
   <b>2) Adding a new task</b>
   <br><br>
   <div style="display: flex; justify-content: center;">
@@ -78,7 +78,7 @@
       <p><strong>After: </strong>New task added to the Not-Started list</p>
     </div>
   </div>
-  <br><br>
+  <br><hr><br>
   <b>3)</b> Editing a task's details
   <br><br>
   <div style="text-align: center; margin: 10px;">
@@ -95,7 +95,7 @@
     <img src="readme_assets\edit3.png" alt="Edit Task Page" width="800">
     <p><strong>New information updated</strong></p>
   </div>
-  <br><br>
+  <br><hr><br>
   <b>4) Adding a new category/status</b>
   <br><br>
   <div style="display: flex; justify-content: center;">
