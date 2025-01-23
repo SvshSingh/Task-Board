@@ -33,7 +33,7 @@
 
 ---
 
-<h2><strong>Key Features</h2></strong>
+<h2><>Key Features</h2></>
 
 - Drag and drop tasks between different statuses for easy workflow management.
 - Add new tasks to any status using the "+ New" button.
